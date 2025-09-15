@@ -64,7 +64,7 @@ LIBS_ADDITIONAL: Final = [
     ),
     (
         "coolinger/ESP32-BLE-Keyboard",
-        "0.3.2",
+        "0.3.2+sha.bbf4a9e",
         None,
     ),
 ]
